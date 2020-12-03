@@ -1,10 +1,6 @@
-# Getting Started with Create React App
+# Belajar Redux Dari Dasar
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+Belajar basic redux dari store, reducer, dispatch dll
 
 ### `npm start`
 
